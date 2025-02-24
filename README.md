@@ -1,7 +1,7 @@
 # 📊 Impact of Co-op on Students’ Career Goals - Power BI Dashboard
 
 ## 📌 Project Overview
-This project analyzes the impact of cooperative education (co-op) on students’ career goals, skills development, and academic preparedness. The dashboard provides interactive insights into students' experiences, helping educators and institutions enhance co-op programs for better career alignment.
+This project analyzes the impact of cooperative education (co-op) on students’ career goals, skills development, and academic preparedness. The dashboard provides interactive insights into students' experiences, helping Drexel educators and institutions enhance co-op programs for better career alignment.
 
 ## 🚀 Features
 - **Objective Brainstorming**: Identifies key learning areas, skill gaps, and career insights from students' co-op experiences.
