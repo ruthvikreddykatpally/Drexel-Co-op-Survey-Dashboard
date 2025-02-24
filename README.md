@@ -9,8 +9,12 @@ This project analyzes the impact of cooperative education (co-op) on students’
 - **Employer Dashboard**: Insights into employer expectations and feedback on students' preparedness and performance.
 
 ## 🛠️ Tools & Technologies
+- **Python**
+- **Jupyter Notebook**
 - **Power BI**: Data visualization and dashboard creation.
 - **Excel**: Data collection and preprocessing.
+- **Matplotlib & Seaborn**: Data visualization.
+- **Textblob & NLTK**: Sentiment Analysis
 
 ## 📂 Files Included
 - 📊 `Co-Op_Survey_Dashboard.pbix` - Power BI dashboard file.
