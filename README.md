@@ -20,6 +20,11 @@ This project analyzes the impact of cooperative education (co-op) on students’
 - 📊 `Co-Op_Survey_Dashboard.pbix` - Power BI dashboard file.
 - 📄 `Impact of Co-op on Students’ Career Goals - PowerBI Dashboard.pdf` - Project report and key insights.
 - 📑 `Objective brainstorming_Co-op_data.xlsx` - Objectives for analysis on PowerBI.
+- 📊 `Objective_1_Code.ipynb` - Python notebook for Objective 1
+- 📊 `Objective_2_Code.ipynb` - Python notebook for Objective 2
+- 📊 `Objective_3_Code.ipynb` - Python notebook for Objective 3
+- 📊 `Objective_4_Code.ipynb` - Python notebook for Objective 4
+
 
 ## 📈 Insights & Findings
 - **Skills Utilization**: Identifies the most important skills used during co-op.
