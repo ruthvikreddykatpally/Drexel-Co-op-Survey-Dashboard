@@ -11,7 +11,7 @@ This project analyzes the impact of cooperative education (co-op) on students’
 ## 🛠️ Tools & Technologies
 - **Python**
 - **Jupyter Notebook**
-- **Power BI**: Data visualization and dashboard creation.
+- **Power BI**: Data visualization and dashboard creation. DAX measures used - 18 (8 :Dynamic Rank , 10 : Count, Average, Percentage, Sum (E.g. " Percentage Top Used Skill by Student")
 - **Excel**: Data collection and preprocessing.
 - **Matplotlib & Seaborn**: Data visualization.
 - **Textblob & NLTK**: Sentiment Analysis
