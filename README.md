@@ -15,6 +15,7 @@ This project analyzes the impact of cooperative education (co-op) on students’
 - **Excel**: Data collection and preprocessing.
 - **Matplotlib & Seaborn**: Data visualization.
 - **Textblob & NLTK**: Sentiment Analysis
+- **BERT Model**: Classification of sentiment
 
 ## 📂 Files Included
 - 📊 `Co-Op_Survey_Dashboard.pbix` - Power BI dashboard file.
